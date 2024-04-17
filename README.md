@@ -13,6 +13,7 @@ ___
 ___
 # Инструкция по установке : 
  > * #### 1. (Если нету Rainmeter) установляйте [ОТСЮДА](https://www.rainmeter.net/)
- > * #### 2. Открываем .rmskin файл из репозитория
+ > * #### 2. Установливаем файл [ссылка на файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso/NSO_RU.rmskin)
+>  * #### 3. Открываем .rmskin файл из репозитория
 > #### Если вы сделали все как надо , то результат будет +- таким.
 > ![Итог](files/result.png)
