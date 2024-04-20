@@ -1,7 +1,7 @@
 ## Это русификатор Rainmeter'а скина по [ NEEDY GIRL OVERDOSE](https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE/)
 
 ![Демо](files/demostration.PNG)
-#### Оригинал: [здесь](https://github.com/lezzthanthree/Needy-Streamer-Overload)
+## Оригинал на английском языке: [здесь](https://github.com/lezzthanthree/Needy-Streamer-Overload)
 ___
 
 # Что находится в данном русификаторе?
@@ -13,7 +13,7 @@ ___
 ___
 # Инструкция по установке : 
  > * #### 1. (Если нету Rainmeter) Устанавливаете его [ОТСЮДА](https://www.rainmeter.net/)
- > * #### 2. Устанавливаем файл [ссылка на файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso/NSO_RU.rmskin)
+ > * #### 2. Устанавливаем файл [ссылка на файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso/RU_NSO.rmskin)
 >  * #### 3. Открываем .rmskin файл из репозитория
 > #### Если вы сделали все как надо , то результат будет +- таким.
 > ![Итог](files/result.png)
