@@ -18,6 +18,9 @@ ___
 > ### _Можно держать сразу 3 вебки_ *(пример показан ниже)*
 > ![Итог](files/add.jpg)
 ___
+> #### _Также было изменено главное меню_
+> ![Меню](files/start_menu.PNG)
+___
 # Инструкция по установке : 
 > * #### 1. (Если нету Rainmeter) Устанавливаете его [ОТСЮДА](https://www.rainmeter.net/)
 > * #### 2. [Устанавливаем файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso/RU_NSO_.rmskin)
