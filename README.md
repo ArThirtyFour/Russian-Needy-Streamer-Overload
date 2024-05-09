@@ -1,25 +1,30 @@
 ## Это русификатор Rainmeter'а скина по [ NEEDY GIRL OVERDOSE](https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE/)
 
-![Демо](files/demostration.PNG)
+![Демо](files/demostratiton.png)
 ## Оригинал на английском языке: [здесь](https://github.com/lezzthanthree/Needy-Streamer-Overload)
+
+* > [Что находится в русификаторе](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload?tab=readme-ov-file#%D1%87%D1%82%D0%BE-%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F-%D0%B2-%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC-%D1%80%D1%83%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B5)
+* > [Установка](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload?tab=readme-ov-file#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5-)
+
+
+
+
 ___
 
 # Что находится в данном русификаторе?
 
-> #### Большая часть была переведена на русский язык.
-
-
-> #### Все изменения сделаны в одном файле , менять ничего не надо.
-___
-# Из нового
-
-> ## Выбор стрима - или Дарк или Кангел
+> *  Большая часть была переведена на русский язык.
+> *  Все изменения сделаны в одном файле , менять ничего не надо.
+> * Выбор стрима - или Дарк или Кангел
 >
-> ### _Можно держать сразу 3 вебки_ *(пример показан ниже)*
+> * Можно держать сразу 3 вебки _(пример показан ниже)_
+> 
 > ![Итог](files/add.jpg)
-___
-> #### _Также было изменено главное меню_
-> ![Меню](files/start_menu.PNG)
+>
+> 
+> * _Также было изменено главное меню_
+>   
+> ![Меню](files/start_menu.png)
 ___
 # Инструкция по установке : 
 > * #### 1. (Если нету Rainmeter) Устанавливаете его [ОТСЮДА](https://www.rainmeter.net/)
