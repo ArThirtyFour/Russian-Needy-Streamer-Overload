@@ -32,7 +32,7 @@ ___
 ___
 # Инструкция по установке : 
 > * #### 1. (Если нету Rainmeter) Устанавливаете его [ОТСЮДА](https://www.rainmeter.net/)
-> * #### 2. [Устанавливаем файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso)
+> * #### 2. [Устанавливаем файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases)
 > * #### 3. Открываем .rmskin файл из репозитория
 ___
 
