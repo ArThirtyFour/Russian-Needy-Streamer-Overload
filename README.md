@@ -22,17 +22,18 @@ ___
 > ![Итог](files/add.jpg)
 >
 > 
-> * _Также было изменено главное меню_
+> * _В главное меню были добавлены еще виджеты_
 >   
 > ![Меню](files/start_menu.png)
+>
+> * **Также был переведен сильно диспетчер задач**
+> 
+> ![Меню](files/disp.png)
 ___
 # Инструкция по установке : 
 > * #### 1. (Если нету Rainmeter) Устанавливаете его [ОТСЮДА](https://www.rainmeter.net/)
-> * #### 2. [Устанавливаем файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso/RU_NGO_2.2.rmskin)
+> * #### 2. [Устанавливаем файл](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload/releases/download/nso)
 > * #### 3. Открываем .rmskin файл из репозитория
-> #### Если вы сделали все как надо , то результат будет +- таким.
-> ![Итог](files/result.png)
-
 ___
 
 ## Всем спасибо за прочтение и установку!
