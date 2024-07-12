@@ -1,6 +1,7 @@
 ## Это русификатор Rainmeter'а скина по [ NEEDY GIRL OVERDOSE](https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE/)
 
 ![Демо](files/demostratiton.png)
+___
 ## Оригинал на английском языке: [здесь](https://github.com/lezzthanthree/Needy-Streamer-Overload)
 
 * > [Что находится в русификаторе](https://github.com/ArThirtyFour/Russian-Needy-Streamer-Overload?tab=readme-ov-file#%D1%87%D1%82%D0%BE-%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F-%D0%B2-%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC-%D1%80%D1%83%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B5)
@@ -33,3 +34,6 @@ ___
 > ![Меню](files/disp.png)
 ___
 ## Всем спасибо за прочтение и установку!
+![Лицензия](https://img.shields.io/github/license/ArThirtyFour/Russian-Needy-Streamer-Overload?style=for-the-badge)
+![Звезды](https://img.shields.io/github/stars/ArThirtyFour/Russian-Needy-Streamer-Overload?style=for-the-badge)
+![Последний Коммит](https://img.shields.io/github/last-commit/ArThirtyFour/Russian-Needy-Streamer-Overload?style=for-the-badge)
