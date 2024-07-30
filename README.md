@@ -28,10 +28,6 @@ ___
 > * _В главное меню были добавлены еще виджеты_
 >   
 > ![Меню](files/start_menu.jpg)
->
-> * **Также был переведен сильно диспетчер задач**
-> 
-> ![Меню](files/disp.png)
 ___
 ## Всем спасибо за прочтение и установку!
 ![Лицензия](https://img.shields.io/github/license/ArThirtyFour/Russian-Needy-Streamer-Overload?style=for-the-badge)
