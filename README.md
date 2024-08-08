@@ -25,9 +25,13 @@ ___
 > ![Итог](files/add.jpg)
 >
 > 
-> * _В главное меню были добавлены еще виджеты_
+> * _В главное меню были добавлены еще окна_
 >   
 > ![Меню](files/start_menu.jpg)
+> 
+>
+> * _Добавлена возможность панелью с иконками ставить их, не лазя по папкам_
+> ![Иконки](files/icons.png)
 ___
 ## Всем спасибо за прочтение и установку!
 ![Лицензия](https://img.shields.io/github/license/ArThirtyFour/Russian-Needy-Streamer-Overload?style=for-the-badge)
