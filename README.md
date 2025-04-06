@@ -1,3 +1,6 @@
+# АВТОР ОРИГИНАЛА ЗАБИЛ ХУЙ , ТАК ЧТО РУСИФИКАТОР СКОРЕЕ ВСЕГО НЕ БУДЕТ ОБНОВЛЯТЬСЯ
+---
+
 ## Это русификатор Rainmeter'а скина по [ NEEDY GIRL OVERDOSE](https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE/)
 
 ![Демо](files/demostratiton.png)
